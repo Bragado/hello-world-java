@@ -10,7 +10,6 @@ pipeline {
 		}
 
 		stage ('Test Stage') {
-			echo 'Testing ...'
 		} 
 	}
 
