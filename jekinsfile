@@ -9,7 +9,7 @@ pipeline {
 			}
 		}
 
-		stage ('Test Stage':) {
+		stage ('Test Stage') {
 			echo 'Testing ...'
 		} 
 	}
